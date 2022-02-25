@@ -342,6 +342,11 @@ nav.show div.icon-close {
   justify-content: center;
 }
 
+#services .subtitle {
+  display: flex;
+  justify-content: center;
+}
+
 /*   languages */
 .cards .grid {
   grid: 1.5rem;
